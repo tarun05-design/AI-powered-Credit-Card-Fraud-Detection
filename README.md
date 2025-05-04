@@ -39,11 +39,11 @@ The project evaluates different models and provides interpretability tools (like
 - `code.ipynb` – Main Google Colab notebook containing all analysis and model code
 - `README.md` – This file
 
-## 👥 Author
-**Udaya M**
-**Tarun P**
-**Syed Ali S**
-**Syed Suhail Ahmed**  
+## 👥 Team Members
+##**Udaya M (Developer)**
+##**Tarun P (Data Analyst)**
+##**Syed Ali S (Model Developer)**
+##**Syed Suhail Ahmed (Documentation & Research Head)**  
 Department of Artificial Intelligence and Data Science  
 Dhaanish Ahmed College of Engineering  
 
