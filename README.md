@@ -40,10 +40,10 @@ The project evaluates different models and provides interpretability tools (like
 - `README.md` – This file
 
 ## 👥 Team Members
- Udaya M (Developer)
- Tarun P (Data Analyst)
- Syed Ali S (Model Developer)
- Syed Suhail Ahmed (Documentation & Research Head)
+1. Udaya M (Developer)
+2. Tarun P (Data Analyst)
+3. Syed Ali S (Model Developer)
+4. Syed Suhail Ahmed (Documentation & Research Head)
 Department of Artificial Intelligence and Data Science  
 Dhaanish Ahmed College of Engineering  
 
