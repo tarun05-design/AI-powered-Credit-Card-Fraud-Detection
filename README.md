@@ -44,6 +44,7 @@ The project evaluates different models and provides interpretability tools (like
 2. Tarun P (Data Analyst)
 3. Syed Ali S (Model Developer)
 4. Syed Suhail Ahmed (Documentation & Research Head)
+   
 Department of Artificial Intelligence and Data Science  
 Dhaanish Ahmed College of Engineering  
 
